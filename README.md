@@ -14,7 +14,7 @@
 -  Bacharel em Engenharia Eletrônica pela UFPEL.
 -  Buscando oportunidades de estágio na área de Eletrônica, Análise e Ciência de Dados.
 -  Atuei em pesquisas na faculdade na área de Agricultura, onde realizei a aplicação de sensores e implementação de IA em dosadores de sementes para testes em bancadas.
--  Realizo projetos pessoais de Análise de Dados e Machine Learning.
+-  Realizo projetos pessoais de Eletrônica, Análise de Dados e Machine Learning.
 -  Amo jogar futebol, brincar com meus gatos e aprender curiosidades sobre o mundo 🌎.
 
 ## Soft Skills
